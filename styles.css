@@ -1,0 +1,43 @@
+.header-title{
+    background-color: #faedcd;
+    display: flex;
+    color: #6a994e;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+  
+  }
+.calculator-container{
+    background-color: #fefae0;
+}
+.top-row{
+    background-color:#ccd5ae;
+    color: #bc6c25;
+    border: none;
+    font-size: 40px;
+    border-radius: 15px;
+}
+
+.right-side{
+    background-color:#d5bdaf;
+    color: #bc6c25;
+    border: none;
+    font-size: 40px;
+    border-radius: 15px;
+}
+
+.main-numbers{
+    background-color:#adc178;
+    color: #bc6c25;
+    border: none;
+    font-size: 40px;
+    border-radius: 15px;
+}
